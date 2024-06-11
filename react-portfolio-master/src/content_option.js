@@ -5,19 +5,19 @@ const meta = {
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "Welcome to Asia Gifts Store",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Your Essence, Your Style",
+        second: "Inspired by Tradition, Designed for Today",
+        third: "Grace in Every Stitch",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Middle-Eastern, African, and South Asian Islamic Apparel and Accessories",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "A Bit About Us",
+    aboutme: "Meet Asia, the passionate owner behind Asia Gifts Store, a beloved Islamic attire and accessory store serving the community for 17 years. Her journey began with a vision to provide high quality, stylish, and modest clothing that celebrates Islamic culture.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -33,28 +33,6 @@ const worktimeline = [{
         jobtitle: "Designer of week",
         where: "ALquds",
         date: "2019",
-    },
-];
-
-const skills = [{
-        name: "Python",
-        value: 90,
-    },
-    {
-        name: "Djano",
-        value: 85,
-    },
-    {
-        name: "Javascript",
-        value: 80,
-    },
-    {
-        name: "React",
-        value: 60,
-    },
-    {
-        name: "Jquery",
-        value: 85,
     },
 ];
 
@@ -136,9 +114,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "asiagifts123@gmail.com",
+    YOUR_FONE: "(817)808-8017",
+    description: "We are open seven days a week from 11AM-8PM. If you have any questions regarding our products please do not hesitate to contact us. Thank you. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -149,7 +127,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    instagram: "https://linkedin.com",
     twitter: "https://twitter.com",
 };
 export {
